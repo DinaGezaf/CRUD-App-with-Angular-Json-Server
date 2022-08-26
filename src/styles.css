@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+@import '../node_modules/alertifyjs//build/css/alertify.min.css';
+@import '../node_modules/alertifyjs//build/css/themes/bootstrap.min.css';
+@import '../node_modules/alertifyjs//build/css/themes/default.min.css';
+@import "@angular/material/prebuilt-themes/indigo-pink.css";
+@import "http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css";
+
+em{
+  color:red;
+}
+table {
+  margin: 120px;
+  width: 1200px;
+}
+form{
+  display:grid;
+  justify-self: center;
+  overflow: hidden;
+}
+.btn-primary,.btn-default{
+  margin: 20px;
+}
+.btn-default{
+  background-color: #eee;
+}

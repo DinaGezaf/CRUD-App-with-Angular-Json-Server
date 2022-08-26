@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "moaz",
+      "email": "moaz@gmail.com",
+      "phone": 1548484845,
+      "address": "cairo",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "eman",
+      "email": "eman@gmail.com",
+      "phone": 648236535,
+      "address": "mansoura",
+      "gender": "female"
+    },
+    {
+      "name": "mai",
+      "email": "mai@gmail.com",
+      "phone": 41564897896,
+      "address": "giza",
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "name": "ola",
+      "email": "ola@gmail.com",
+      "phone": 484512103,
+      "address": "aswan",
+      "gender": "female",
+      "id": 4
+    },
+    {
+      "name": "shady",
+      "email": "shady@gmail.com",
+      "phone": 488411661,
+      "address": "cairo",
+      "gender": "male",
+      "id": 6
+    }
+  ]
+}
