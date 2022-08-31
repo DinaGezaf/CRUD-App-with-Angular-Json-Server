@@ -10,16 +10,16 @@ import { MatCheckboxModule } from '@angular/material/checkbox'
 import { MatCardModule } from '@angular/material/card'
 
 @NgModule({
-    exports: [
-        MatInputModule,
-        MatFormFieldModule,
-        MatTableModule,
-        MatPaginatorModule,
-        MatSortModule,
-        MatDialogModule,
-        MatButtonModule,
-        MatCheckboxModule,
-        MatCardModule
-    ]
+  exports: [
+    MatInputModule,
+    MatFormFieldModule,
+    MatTableModule,
+    MatPaginatorModule,
+    MatSortModule,
+    MatDialogModule,
+    MatButtonModule,
+    MatCheckboxModule,
+    MatCardModule,
+  ],
 })
-export class MaterialModule { }
+export class MaterialModule {}

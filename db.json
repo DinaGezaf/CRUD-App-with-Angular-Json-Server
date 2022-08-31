@@ -1,44 +1,36 @@
 {
   "users": [
     {
-      "name": "moaz",
+      "name": "Moaz",
       "email": "moaz@gmail.com",
       "phone": 1548484845,
-      "address": "cairo",
+      "address": "aswan",
       "gender": "male",
       "id": 1
     },
     {
       "id": 2,
-      "name": "eman",
+      "name": "Eman",
       "email": "eman@gmail.com",
       "phone": 648236535,
-      "address": "mansoura",
+      "address": "Mansoura",
       "gender": "female"
     },
     {
-      "name": "mai",
-      "email": "mai@gmail.com",
-      "phone": 41564897896,
-      "address": "giza",
-      "gender": "female",
-      "id": 3
-    },
-    {
-      "name": "ola",
+      "name": "Ola",
       "email": "ola@gmail.com",
       "phone": 484512103,
       "address": "aswan",
       "gender": "female",
-      "id": 4
+      "id": 3
     },
     {
-      "name": "shady",
-      "email": "shady@gmail.com",
-      "phone": 488411661,
-      "address": "cairo",
-      "gender": "male",
-      "id": 6
+      "name": "Nada",
+      "email": "nada@gmail.com",
+      "phone": 445121211,
+      "address": "alex",
+      "gender": "female",
+      "id": 4
     }
   ]
 }

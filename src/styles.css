@@ -9,17 +9,25 @@ em{
   color:red;
 }
 table {
-  margin: 120px;
+  margin-left: 120px;
   width: 1200px;
 }
 form{
   display:grid;
   justify-self: center;
   overflow: hidden;
+  /* padding-left:250px; */
 }
 .btn-primary,.btn-default{
   margin: 20px;
+  width:130px
 }
 .btn-default{
   background-color: #eee;
 }
+/* .title{
+  padding-left:460px;
+}
+.table{
+  padding-left: 550px;
+} */

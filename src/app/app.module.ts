@@ -11,15 +11,15 @@ import { EditComponent } from './edit/edit.component';
 import { HttpClientModule } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MAT_DIALOG_DATA } from '@angular/material/dialog';
-import { MaterialModule } from './shared/MaterialModule';
+import { MaterialModule } from './shared/material.module';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    CreateComponent,
     DataTableComponent,
-    EditComponent
+    CreateComponent,
+    EditComponent,
   ],
   imports: [
     BrowserModule,
@@ -29,11 +29,9 @@ import { MaterialModule } from './shared/MaterialModule';
     FormRoutingModule,
     HttpClientModule,
     BrowserAnimationsModule,
-    MaterialModule
+    MaterialModule,
   ],
-  providers: [
-    { provide: MAT_DIALOG_DATA, useValue: {} },
-  ],
-  bootstrap: [AppComponent]
+  providers: [{ provide: MAT_DIALOG_DATA, useValue: {} }],
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
