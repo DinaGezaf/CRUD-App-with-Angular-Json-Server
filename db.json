@@ -31,6 +31,14 @@
       "address": "alex",
       "gender": "female",
       "id": 4
+    },
+    {
+      "id": 5,
+      "name": "omar",
+      "email": "omar@gmail.com",
+      "phone": 48796616688,
+      "address": "alex",
+      "gender": "male"
     }
   ]
 }
